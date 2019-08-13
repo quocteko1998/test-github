@@ -4,5 +4,12 @@
     </head>
     <body>
         This is my app
+        <div id="abc" style="display: none">Hello World</div>
+        <button id="btn" onclick="show()">click me</button>
+        <script>
+            function show(){
+                document.getElementById("abc").style.display = "block"
+            }
+        </script>
     </body>
 </html>
