@@ -1,0 +1,1 @@
+hello, this is the first file text of this folder
